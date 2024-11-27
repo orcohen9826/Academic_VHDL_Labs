@@ -1,4 +1,4 @@
-# Image Filtering Project - README
+# Image Filtering Project
 
 ## Overview
 This project focuses on applying image processing filters to images with noise, particularly RAW images with RGB channels. The goal is to use and compare different filtering algorithms like **Median**, **Median of Medians**, and **Conditional Median of Medians** to enhance image quality and remove noise (e.g., salt-and-pepper noise). The project is structured to support both software-based processing (using Python) and hardware implementation (using VHDL).
